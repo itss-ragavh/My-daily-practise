@@ -1,8 +1,8 @@
-Bank Application
+# Bank Application
 
 This is a simple console-based banking application written in Java. It allows users to create bank accounts, view account details, deposit and withdraw money, change passwords, and view balance — all with password protection for security. The system supports multiple accounts and ensures that only the account holder with the correct password can access or modify account details.
 
-Features:
+## Features:
 
 - Create Account: Users can create a new bank account with an initial balance and set a password.
 - View Account Details: Users can view their account details, including the account holder's name and current balance.
@@ -12,7 +12,7 @@ Features:
 - Change Password: Users can change their account password after verifying their old password.
 - Password Protection: Passwords are required for accessing or modifying account information.
 
-How to Use:
+## How to Use:
 
 1. Clone the repository:
    git clone https://github.com/your-username/banking-application.git
@@ -26,13 +26,20 @@ How to Use:
 
 3. Follow the on-screen instructions to create an account, view account details, deposit/withdraw money, or change the password.
 
-Technologies Used:
+## Technologies Used:
 
 - Java (Core Java, no external libraries required)
 
-Contributing:
+## Contributing:
 
 Feel free to fork this repository, make improvements, and create a pull request. Contributions are always welcome!
 
+## Contact Information:
+If you have any feedback or questions, feel free to reach out to me!
+
+- **Email**: [harishragavendra2305@gmail.com](mailto:harishragavendra2305@gmail.com)
+- **LinkedIn**: [Harish Ragavendra](https://www.linkedin.com/in/harishragavendra23)
 
 
+
+Enjoy using the BankingApplication
