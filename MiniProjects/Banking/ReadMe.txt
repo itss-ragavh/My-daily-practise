@@ -34,7 +34,5 @@ Contributing:
 
 Feel free to fork this repository, make improvements, and create a pull request. Contributions are always welcome!
 
-License:
 
-This project is open-source and available under the MIT License.
 
