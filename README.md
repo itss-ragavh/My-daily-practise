@@ -30,9 +30,9 @@ The questions I am practicing include the following types:
 ### 4. **Mini-Java Projects**:
    - Small Java projects to practice and apply various concepts in real-world scenarios.
    - Example projects:
-     - A simple bank account management system
-     - A basic calculator
-     - Task management application
+     - **Library Book Management System**: A system to manage books in a library, including adding new books, tracking availability, and managing member borrowing.
+     - **Bank Account Management System**: A simple system to manage bank accounts, including features like deposit, withdrawal, balance checking, and account creation.
+     - Tic-Tae-toe Game
 
 ## Note:
 I am still new to uploading my practice solutions, and I will continue to upload more questions and projects as I progress. Feel free to explore, learn, and contribute if you'd like!
@@ -47,8 +47,7 @@ If you're interested in contributing, feel free to fork the repository and submi
 
 If you have any questions, feedback, or just want to connect, feel free to reach out to me!
 
-- **Email**: [harishragavendra2305@gmail](mailto:harishragavendra2305@gmail.com)
-- 
+- **Email**: [harishragavendra2305@gmail.com](mailto:harishragavendra2305@gmail.com)
 - **LinkedIn**: [Harish Ragavendra](https://www.linkedin.com/in/harishragavendra23)
 
 Happy coding, and thanks for visiting!
