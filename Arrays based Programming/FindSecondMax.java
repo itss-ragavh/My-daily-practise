@@ -9,24 +9,22 @@ class  FindSecondMax
 		int res=secMax(a);
 		System.out.println("\n\tThe Second largest Element in Array is: "+res);
 	}
-	public static int secMax(int[]a)
+	public static int secMax(int[]nums)
 	{
-		if (a.length==0)
-		{
-			return 0;
+		if (nums.length==0) {
+			return -1;
 		}
-		int max=a[0];
-		for (int i=0;i<a.length;i++)
-		{
-			if (a[i]>max)
-			{
-				max=a[i];
+		int max=Integer.MIN_VALUE;
+		int secondMax=Integer.MIN_VALUE;
+		for (int i = 0; i < nums.length; i++) {
+			if (nums[i]>max){
+				secondMax=max;
+				max=nums[i];
 			}
-			 else if (nums[i] > secondMax && nums[i] < max)
-			{
-                secondMax = nums[i];
+			else if (nums[i]<max && nums[i]>secondMax) {
+				secondMax=nums[i];
 			}
 		}
-		return max;
+		return secondMax;
 	}
 }

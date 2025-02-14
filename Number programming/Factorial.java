@@ -28,7 +28,7 @@ class CountDigit
 	{
 		System.out.print("Enter the number :");
 		int num=sz.nextInt();
-		int temp=num,count=0;
+		int count=0;
 		while (num>0)
 		{
 			count++;

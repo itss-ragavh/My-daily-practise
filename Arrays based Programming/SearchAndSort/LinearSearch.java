@@ -9,6 +9,7 @@ class LinearSearch
 		int key=sc.nextInt();
 		String res=linearSearch(a,key);
 		System.out.println("\n\t\tThe Number is "+res+" in\n\t\t\t\t"+Arrays.toString(a));
+		sc.close();
 	}
 	public static String linearSearch(int[]a,int key)
 	{

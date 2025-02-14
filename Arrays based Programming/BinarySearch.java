@@ -8,12 +8,12 @@ class  BinarySearch
 		System.out.println(Arrays.toString(a));
 		System.out.println("Enter the number");
 		int key=sc.nextInt();
-		String res=BinarySearch(a,key);
+		String res=binarySearch(a,key);
 		System.out.println("The enterd number: "+key+" is "+res);
 		System.out.println(Arrays.toString(a));
 	}
 	
-	public static String BinarySearch(int[]a,int key)
+	public static String binarySearch(int[]a,int key)
 	{
 		int l=0,h=a.length-1,mid=(l+h)/2;
 		while (l<=h)

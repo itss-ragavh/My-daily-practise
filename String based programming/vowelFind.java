@@ -1,4 +1,3 @@
-package string;
 
 public class vowelFind {
     public static String toGoatLatin(String s) {

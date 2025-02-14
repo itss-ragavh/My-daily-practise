@@ -9,7 +9,7 @@ class  StringRev
 		
 		for (int i=0;i<a.length();i++ )
 		{
-			char ch=a.chartAt(i);
+			char ch=a.charAt(i);
 			if(!ans.equalsIgnoreCase(a)){
 				ans+=ch+"";
 			}

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Xyl{
+public class XylemPholem{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         

@@ -29,7 +29,7 @@ public class HappyNumber {
 
         System.out.print("Enter the number :");
         int number=sc.nextInt();
-        System.out.println(isHappy(n));  // Output: true (Happy number) 19
+        System.out.println(isHappy(number));  // Output: true (Happy number) 19
         //System.out.println(isHappy(2));   // Output: false (Not a happy number)
     }
 }

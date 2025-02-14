@@ -1,4 +1,3 @@
-import java.util.*;
 public class ArrMaxMin {
     public static void main(String[] args) {
         int[]a={8,0,3,4,-3,0};

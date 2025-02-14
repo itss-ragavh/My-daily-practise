@@ -6,9 +6,9 @@ class  BubbleSort
 		int []a={10,23,4,5,89,0,-4,1,2,3,};
 		System.out.println("\t\t\tThe before sorting");
 		System.out.println("\t\t\t"+Arrays.toString(a));
-		BubbleSort(a);
+		bubbleSort(a);
 	}
-	public static void BubbleSort(int[]a)
+	public static void bubbleSort(int[]a)
 	{
 		for (int i=0;i<a.length-1;i++)
 		{

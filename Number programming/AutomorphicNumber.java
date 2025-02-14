@@ -5,7 +5,6 @@ public class AutomorphicNumber {
         System.out.print("Enter the number :");
         int num =sc.nextInt();
         int numSquare=num*num;
-        int numSquareTemp=numSquare;
         while (numSquare>9) {
             numSquare%=10;
         }

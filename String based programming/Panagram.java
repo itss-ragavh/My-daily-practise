@@ -5,10 +5,10 @@ class Panagram
 	{
 		String s="The Quick Brown fox jumps over the lazy dog";
 		System.out.println(s);
-		String res= Panagram(s);
+		String res= panagram(s);
 		System.out.println(res);
 	}
-	public static String Panagram(String s)
+	public static String panagram(String s)
 	{
 		s=s.toUpperCase();
 		System.out.println(s);
